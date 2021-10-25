@@ -7,7 +7,8 @@ update_config=1
 country=EU
 
 network={
-        ssid="*************"
+       
+       ssid="*************"
         
         psk="********"
         
