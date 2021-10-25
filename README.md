@@ -8,5 +8,7 @@ country=EU
 
 network={
         ssid="*************"
+        
         psk="********"
+        
 }
